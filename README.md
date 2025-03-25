@@ -46,4 +46,4 @@ Download Exchange Health Checker here [Exchange Health Checker](https://microsof
 
 ## Website
 
- [FrankysWeb](https://www.frankysweb.de/)
+ [HL-Consulting](https://hl-consulting.ch/)
